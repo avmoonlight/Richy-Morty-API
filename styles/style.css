@@ -11,9 +11,10 @@ body {
 }
 
 header {
-  background-color: #2a2a2a;
+  background-image: url('../img/header.gif');
   padding: 20px;
   text-align: center;
+  color: #1c1c1c;
 }
 
 header h1 {
@@ -69,13 +70,14 @@ header input {
 }
 
 .pagination button {
-  background-color: #ff9800;
+  background-color: #184095;
   border: none;
   padding: 8px 15px;
   border-radius: 4px;
   cursor: pointer;
+  color: antiquewhite;
 }
 
 .pagination button:hover {
-  background-color: #e68900;
+  background-color: #13357e;
 }
