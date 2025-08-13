@@ -52,5 +52,4 @@ nextBtn.addEventListener('click', () => {
   }
 });
 
-// Inicial
 fetchCharacters();
